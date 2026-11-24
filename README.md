@@ -6,7 +6,11 @@ A tiny green platoon takes on an oversized kitchen. Move across the counter whil
 
 Play: https://ghavn.github.io/countertop-command/
 
-Inspired by the community idea [Plastic Platoon](https://gamehavn.com/ideas/plastic-platoon-household-toy-soldier-roguelite) on [GameHavn](https://gamehavn.com). GameHavn publication links will be added after verification.
+Inspired by the community idea [Plastic Platoon](https://gamehavn.com/ideas/plastic-platoon-household-toy-soldier-roguelite) on [GameHavn](https://gamehavn.com). Published prototype: https://gamehavn.com/games/countertop-command
+
+Developer channel: https://gamehavn.com/jochen
+
+Stored GameHavn preview: https://gamehavn.com/static/game-images/16c40988-bfa7-46de-8ce0-e42db74679e4.webp
 
 ## Controls and status
 
@@ -80,3 +84,9 @@ Next steps: larger mobile battlefield framing, audio and hit feedback, independe
 ## Credits and license
 
 Game concept: Wick & Ash Games via the original GameHavn idea linked above. Implementation and original procedural artwork: Jochen Labs. The interface uses energetic colors and bold mission typography inspired by the user's requested direction; it contains no Fortnite assets, logos or copied artwork. Fonts use the device's Arial/Helvetica/sans-serif stack. Vite and TypeScript are third-party development dependencies; their licenses remain with their authors. No project license has been selected; this repository does not grant a separate open-source license.
+
+## Verification record (24 November 2026)
+
+Production build and TypeScript checks passed. Public GitHub Pages returned HTTP 200 after updating the Pages upload/deploy actions to v5. Browser checks covered public game startup, movement, automatic targeting/fire, bunker destruction, salvage pickup, boss spawning, loss and restart, pause/resume, English desktop/mobile briefing layout, and the exact sandbox iframe. The saved GameHavn player loaded and accepted keyboard controls. External play redirected to the public game. The stored preview loaded at 1280 pixels wide after refreshing the listing. The listing retained Action and Roguelike and its original idea association, and appeared in the developer channel and prototype catalog.
+
+Fullscreen was attempted in the Codex in-app browser; GameHavn reported “Fullscreen is unavailable.” The prototype catalog currently exposes type/platform/sort controls but no category filter, so category-specific filtering could not be checked through that UI. Physical touchscreen input, all upgrade branches and a complete victory run remain unverified.
