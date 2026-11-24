@@ -10,7 +10,9 @@ Inspired by the community idea [Plastic Platoon](https://gamehavn.com/ideas/plas
 
 Developer channel: https://gamehavn.com/jochen
 
-Stored GameHavn preview: https://gamehavn.com/static/game-images/16c40988-bfa7-46de-8ce0-e42db74679e4.webp
+Cover artwork: https://ghavn.github.io/countertop-command/key-art.jpg
+
+The cover is AI-generated promotional key art, not a gameplay screenshot. The actual gameplay capture remains above and in `public/gameplay.jpg`.
 
 ## Controls and status
 
